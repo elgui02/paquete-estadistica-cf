@@ -1,9 +1,9 @@
 {
-  "name": "paquete-estadistica-cf",
+  "name": "@elgui02/paquete-estadistica-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
   "author": "Guilermo Arana",
@@ -13,5 +13,13 @@
     "canvas": "^3.1.0",
     "chart.js": "^4.4.9",
     "chartjs-node-canvas": "^5.0.0"
-  }
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/elgui02/paquete-estadistica-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elgui02/paquete-estadistica-js/issues"
+  },
+  "homepage": "https://github.com/elgui02/paquete-estadistica-js#readme"
 }
